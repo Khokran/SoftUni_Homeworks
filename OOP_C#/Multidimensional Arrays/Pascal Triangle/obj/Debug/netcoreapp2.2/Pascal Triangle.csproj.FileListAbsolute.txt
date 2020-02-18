@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\bin\Debug\netcoreapp2.2\Pascal Triangle.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\bin\Debug\netcoreapp2.2\Pascal Triangle.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\bin\Debug\netcoreapp2.2\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\bin\Debug\netcoreapp2.2\Pascal Triangle.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\bin\Debug\netcoreapp2.2\Pascal Triangle.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\obj\Debug\netcoreapp2.2\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\obj\Debug\netcoreapp2.2\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\obj\Debug\netcoreapp2.2\Pascal Triangle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\obj\Debug\netcoreapp2.2\Pascal Triangle.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pascal Triangle\obj\Debug\netcoreapp2.2\Pascal Triangle.pdb

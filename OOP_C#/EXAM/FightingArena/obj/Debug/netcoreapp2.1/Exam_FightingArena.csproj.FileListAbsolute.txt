@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\obj\Debug\netcoreapp2.1\Exam_FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\obj\Debug\netcoreapp2.1\Exam_FightingArena.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\obj\Debug\netcoreapp2.1\Exam_FightingArena.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\bin\Debug\netcoreapp2.1\FightingArena.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\bin\Debug\netcoreapp2.1\FightingArena.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\bin\Debug\netcoreapp2.1\Ex_Collection.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\bin\Debug\netcoreapp2.1\Ex_Collection.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\bin\Debug\netcoreapp2.1\Ex_Collection.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\bin\Debug\netcoreapp2.1\Ex_Collection.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\bin\Debug\netcoreapp2.1\Ex_Collection.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\obj\Debug\netcoreapp2.1\Ex_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\obj\Debug\netcoreapp2.1\Ex_Collection.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\obj\Debug\netcoreapp2.1\Ex_Collection.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\obj\Debug\netcoreapp2.1\Ex_Collection.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Collection\obj\Debug\netcoreapp2.1\Ex_Collection.pdb

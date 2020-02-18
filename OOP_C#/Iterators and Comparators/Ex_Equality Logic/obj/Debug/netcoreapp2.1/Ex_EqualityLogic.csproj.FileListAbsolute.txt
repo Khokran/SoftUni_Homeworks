@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\bin\Debug\netcoreapp2.1\Ex_EqualityLogic.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\bin\Debug\netcoreapp2.1\Ex_EqualityLogic.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\bin\Debug\netcoreapp2.1\Ex_EqualityLogic.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\bin\Debug\netcoreapp2.1\Ex_EqualityLogic.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\bin\Debug\netcoreapp2.1\Ex_EqualityLogic.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.1\Ex_EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.1\Ex_EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.1\Ex_EqualityLogic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.1\Ex_EqualityLogic.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.1\Ex_EqualityLogic.pdb

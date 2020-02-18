@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\bin\Debug\netcoreapp2.2\Stack_Sum.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\bin\Debug\netcoreapp2.2\Stack_Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\bin\Debug\netcoreapp2.2\Stack_Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\bin\Debug\netcoreapp2.2\Stack_Sum.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\bin\Debug\netcoreapp2.2\Stack_Sum.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\obj\Debug\netcoreapp2.2\Stack_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\obj\Debug\netcoreapp2.2\Stack_Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\obj\Debug\netcoreapp2.2\Stack_Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\obj\Debug\netcoreapp2.2\Stack_Sum.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Stack_Sum\obj\Debug\netcoreapp2.2\Stack_Sum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\bin\Debug\netcoreapp2.2\Exam_ClubParty.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\bin\Debug\netcoreapp2.2\Exam_ClubParty.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\bin\Debug\netcoreapp2.2\Exam_ClubParty.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\bin\Debug\netcoreapp2.2\Exam_ClubParty.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\bin\Debug\netcoreapp2.2\Exam_ClubParty.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\obj\Debug\netcoreapp2.2\Exam_ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\obj\Debug\netcoreapp2.2\Exam_ClubParty.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\obj\Debug\netcoreapp2.2\Exam_ClubParty.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\obj\Debug\netcoreapp2.2\Exam_ClubParty.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_ClubParty\obj\Debug\netcoreapp2.2\Exam_ClubParty.pdb

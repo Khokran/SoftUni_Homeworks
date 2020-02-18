@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\bin\Debug\Exercise_Football souvenirs.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\bin\Debug\Exercise_Football souvenirs.exe
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\bin\Debug\Exercise_Football souvenirs.pdb
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\obj\Debug\Exercise_Football souvenirs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\obj\Debug\Exercise_Football souvenirs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\obj\Debug\Exercise_Football souvenirs.exe
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Football souvenirs\obj\Debug\Exercise_Football souvenirs.pdb

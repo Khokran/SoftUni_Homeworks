@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\bin\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\bin\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\bin\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\bin\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\bin\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\obj\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\obj\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\obj\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\obj\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Simple Text Editor 2\obj\Debug\netcoreapp2.2\Ex_Simple Text Editor 2 SB.pdb

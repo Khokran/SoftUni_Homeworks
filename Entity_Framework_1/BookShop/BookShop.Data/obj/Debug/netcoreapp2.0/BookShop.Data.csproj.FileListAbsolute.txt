@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CopyComplete
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb

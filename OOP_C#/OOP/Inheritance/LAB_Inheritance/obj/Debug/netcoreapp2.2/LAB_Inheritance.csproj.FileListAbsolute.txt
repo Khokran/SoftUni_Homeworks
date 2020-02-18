@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\bin\Debug\netcoreapp2.2\LAB_Inheritance.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\bin\Debug\netcoreapp2.2\LAB_Inheritance.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\bin\Debug\netcoreapp2.2\LAB_Inheritance.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\bin\Debug\netcoreapp2.2\LAB_Inheritance.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\bin\Debug\netcoreapp2.2\LAB_Inheritance.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\obj\Debug\netcoreapp2.2\LAB_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\obj\Debug\netcoreapp2.2\LAB_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\obj\Debug\netcoreapp2.2\LAB_Inheritance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\obj\Debug\netcoreapp2.2\LAB_Inheritance.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Inheritance\obj\Debug\netcoreapp2.2\LAB_Inheritance.pdb

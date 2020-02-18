@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\bin\Debug\Basic_if-else.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\bin\Debug\Basic_if-else.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\bin\Debug\Basic_if-else.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\obj\Debug\Basic_if-else.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\obj\Debug\Basic_if-else.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\obj\Debug\Basic_if-else.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_if-else\obj\Debug\Basic_if-else.pdb

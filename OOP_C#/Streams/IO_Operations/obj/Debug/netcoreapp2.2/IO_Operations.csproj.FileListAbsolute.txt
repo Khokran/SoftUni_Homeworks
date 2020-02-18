@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\bin\Debug\netcoreapp2.2\IO_Operations.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\bin\Debug\netcoreapp2.2\IO_Operations.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\bin\Debug\netcoreapp2.2\IO_Operations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\bin\Debug\netcoreapp2.2\IO_Operations.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\bin\Debug\netcoreapp2.2\IO_Operations.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\obj\Debug\netcoreapp2.2\IO_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\obj\Debug\netcoreapp2.2\IO_Operations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\obj\Debug\netcoreapp2.2\IO_Operations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\obj\Debug\netcoreapp2.2\IO_Operations.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\IO_Operations\obj\Debug\netcoreapp2.2\IO_Operations.pdb

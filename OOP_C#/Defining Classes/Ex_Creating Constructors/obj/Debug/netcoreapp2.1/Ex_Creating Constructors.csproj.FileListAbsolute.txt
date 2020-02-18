@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\bin\Debug\netcoreapp2.1\Ex_Creating Constructors.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\bin\Debug\netcoreapp2.1\Ex_Creating Constructors.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\bin\Debug\netcoreapp2.1\Ex_Creating Constructors.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\bin\Debug\netcoreapp2.1\Ex_Creating Constructors.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\bin\Debug\netcoreapp2.1\Ex_Creating Constructors.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\obj\Debug\netcoreapp2.1\Ex_Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\obj\Debug\netcoreapp2.1\Ex_Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\obj\Debug\netcoreapp2.1\Ex_Creating Constructors.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\obj\Debug\netcoreapp2.1\Ex_Creating Constructors.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Creating Constructors\obj\Debug\netcoreapp2.1\Ex_Creating Constructors.pdb

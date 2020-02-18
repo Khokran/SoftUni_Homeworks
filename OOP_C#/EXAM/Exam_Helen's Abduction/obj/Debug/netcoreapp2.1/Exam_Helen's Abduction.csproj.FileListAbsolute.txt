@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\bin\Debug\netcoreapp2.1\Exam_Helen's Abduction.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\bin\Debug\netcoreapp2.1\Exam_Helen's Abduction.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\bin\Debug\netcoreapp2.1\Exam_Helen's Abduction.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\bin\Debug\netcoreapp2.1\Exam_Helen's Abduction.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\bin\Debug\netcoreapp2.1\Exam_Helen's Abduction.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\obj\Debug\netcoreapp2.1\Exam_Helen's Abduction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\obj\Debug\netcoreapp2.1\Exam_Helen's Abduction.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\obj\Debug\netcoreapp2.1\Exam_Helen's Abduction.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\obj\Debug\netcoreapp2.1\Exam_Helen's Abduction.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_Helen's Abduction\obj\Debug\netcoreapp2.1\Exam_Helen's Abduction.pdb

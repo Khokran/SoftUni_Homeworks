@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\bin\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\bin\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\bin\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\bin\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\bin\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\obj\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\obj\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\obj\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\obj\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Count Symbols\obj\Debug\netcoreapp2.2\Ex_Count Symbols_CHAR.pdb

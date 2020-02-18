@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\bin\Debug\netcoreapp2.2\UnitTesting.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\UnitTesting\obj\Debug\netcoreapp2.2\UnitTesting.csprojAssemblyReference.cache

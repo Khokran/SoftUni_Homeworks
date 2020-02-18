@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\bin\Debug\netcoreapp2.1\Ex_Arr_Data Types.deps.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\bin\Debug\netcoreapp2.1\Ex_Arr_Data Types.runtimeconfig.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\bin\Debug\netcoreapp2.1\Ex_Arr_Data Types.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\bin\Debug\netcoreapp2.1\Ex_Arr_Data Types.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\bin\Debug\netcoreapp2.1\Ex_Arr_Data Types.pdb
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\obj\Debug\netcoreapp2.1\Ex_Arr_Data Types.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\obj\Debug\netcoreapp2.1\Ex_Arr_Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\obj\Debug\netcoreapp2.1\Ex_Arr_Data Types.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\obj\Debug\netcoreapp2.1\Ex_Arr_Data Types.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\obj\Debug\netcoreapp2.1\Ex_Arr_Data Types.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Data Types\obj\Debug\netcoreapp2.1\Ex_Arr_Data Types.pdb

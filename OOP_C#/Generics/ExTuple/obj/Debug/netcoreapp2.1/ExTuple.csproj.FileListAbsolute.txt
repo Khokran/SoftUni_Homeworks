@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\bin\Debug\netcoreapp2.1\ExTuple.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\bin\Debug\netcoreapp2.1\ExTuple.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\bin\Debug\netcoreapp2.1\ExTuple.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\bin\Debug\netcoreapp2.1\ExTuple.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\bin\Debug\netcoreapp2.1\ExTuple.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\obj\Debug\netcoreapp2.1\ExTuple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\obj\Debug\netcoreapp2.1\ExTuple.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\obj\Debug\netcoreapp2.1\ExTuple.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\obj\Debug\netcoreapp2.1\ExTuple.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExTuple\obj\Debug\netcoreapp2.1\ExTuple.pdb

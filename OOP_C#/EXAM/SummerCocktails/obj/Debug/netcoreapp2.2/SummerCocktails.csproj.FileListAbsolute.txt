@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\bin\Debug\netcoreapp2.2\SummerCocktails.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\bin\Debug\netcoreapp2.2\SummerCocktails.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\bin\Debug\netcoreapp2.2\SummerCocktails.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\bin\Debug\netcoreapp2.2\SummerCocktails.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\bin\Debug\netcoreapp2.2\SummerCocktails.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\obj\Debug\netcoreapp2.2\SummerCocktails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\obj\Debug\netcoreapp2.2\SummerCocktails.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\obj\Debug\netcoreapp2.2\SummerCocktails.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\obj\Debug\netcoreapp2.2\SummerCocktails.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\SummerCocktails\obj\Debug\netcoreapp2.2\SummerCocktails.pdb

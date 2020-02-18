@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\bin\Debug\netcoreapp2.1\ExamHealthyHeaven.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\bin\Debug\netcoreapp2.1\ExamHealthyHeaven.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\bin\Debug\netcoreapp2.1\ExamHealthyHeaven.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\bin\Debug\netcoreapp2.1\ExamHealthyHeaven.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\bin\Debug\netcoreapp2.1\ExamHealthyHeaven.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\obj\Debug\netcoreapp2.1\ExamHealthyHeaven.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\obj\Debug\netcoreapp2.1\ExamHealthyHeaven.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\obj\Debug\netcoreapp2.1\ExamHealthyHeaven.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\obj\Debug\netcoreapp2.1\ExamHealthyHeaven.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamHealthyHeaven\obj\Debug\netcoreapp2.1\ExamHealthyHeaven.pdb

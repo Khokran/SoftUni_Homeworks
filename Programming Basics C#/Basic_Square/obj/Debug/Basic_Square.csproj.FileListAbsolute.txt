@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_4\bin\Debug\Basic_4.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_4\bin\Debug\Basic_4.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_4\bin\Debug\Basic_4.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_4\obj\Debug\Basic_Square.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_4\obj\Debug\Basic_4.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_4\obj\Debug\Basic_4.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\bin\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.deps.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\bin\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.runtimeconfig.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\bin\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\bin\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\bin\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.pdb
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\obj\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\obj\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\obj\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\obj\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\obj\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Characters In Range\obj\Debug\netcoreapp2.1\Ex_Arr_Characters In Range.pdb

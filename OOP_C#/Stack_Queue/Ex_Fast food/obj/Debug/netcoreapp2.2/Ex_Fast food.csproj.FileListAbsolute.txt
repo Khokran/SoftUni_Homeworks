@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\bin\Debug\netcoreapp2.2\Ex_Fast food.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\bin\Debug\netcoreapp2.2\Ex_Fast food.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\bin\Debug\netcoreapp2.2\Ex_Fast food.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\bin\Debug\netcoreapp2.2\Ex_Fast food.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\bin\Debug\netcoreapp2.2\Ex_Fast food.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\obj\Debug\netcoreapp2.2\Ex_Fast food.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\obj\Debug\netcoreapp2.2\Ex_Fast food.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\obj\Debug\netcoreapp2.2\Ex_Fast food.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\obj\Debug\netcoreapp2.2\Ex_Fast food.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fast food\obj\Debug\netcoreapp2.2\Ex_Fast food.pdb

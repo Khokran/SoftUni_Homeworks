@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\bin\Debug\netcoreapp2.1\01.InitialSetup.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\bin\Debug\netcoreapp2.1\01.InitialSetup.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\bin\Debug\netcoreapp2.1\01.InitialSetup.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\bin\Debug\netcoreapp2.1\01.InitialSetup.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\bin\Debug\netcoreapp2.1\01.InitialSetup.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp2.1\01.InitialSetup.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp2.1\01.InitialSetup.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp2.1\01.InitialSetup.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp2.1\01.InitialSetup.pdb

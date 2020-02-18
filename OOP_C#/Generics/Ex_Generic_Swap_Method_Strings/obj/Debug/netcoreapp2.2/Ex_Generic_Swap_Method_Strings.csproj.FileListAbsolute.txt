@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\bin\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Swap_Method_Strings\obj\Debug\netcoreapp2.2\Ex_Generic_Swap_Method_Strings.pdb

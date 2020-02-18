@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\bin\Debug\Basic_even_odd.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\bin\Debug\Basic_even_odd.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\bin\Debug\Basic_even_odd.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\obj\Debug\Basic_even_odd.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\obj\Debug\Basic_even_odd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\obj\Debug\Basic_even_odd.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_even_odd\obj\Debug\Basic_even_odd.pdb

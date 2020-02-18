@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\Ex_11. The Party Reservation Filter Module.pdb

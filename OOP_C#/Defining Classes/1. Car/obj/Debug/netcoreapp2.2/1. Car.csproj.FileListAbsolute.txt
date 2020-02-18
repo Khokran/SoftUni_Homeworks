@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\bin\Debug\netcoreapp2.2\1. Car.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\bin\Debug\netcoreapp2.2\1. Car.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\bin\Debug\netcoreapp2.2\1. Car.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\bin\Debug\netcoreapp2.2\1. Car.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\bin\Debug\netcoreapp2.2\1. Car.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\obj\Debug\netcoreapp2.2\1. Car.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\obj\Debug\netcoreapp2.2\1. Car.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\obj\Debug\netcoreapp2.2\1. Car.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\obj\Debug\netcoreapp2.2\1. Car.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Car\obj\Debug\netcoreapp2.2\1. Car.pdb

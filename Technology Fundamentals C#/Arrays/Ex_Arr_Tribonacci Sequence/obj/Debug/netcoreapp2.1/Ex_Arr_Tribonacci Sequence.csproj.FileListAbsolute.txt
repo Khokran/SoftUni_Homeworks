@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\bin\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.deps.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\bin\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.runtimeconfig.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\bin\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\bin\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\bin\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.pdb
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\obj\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\obj\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\obj\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\obj\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\obj\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_Tribonacci Sequence\obj\Debug\netcoreapp2.1\Ex_Arr_Tribonacci Sequence.pdb

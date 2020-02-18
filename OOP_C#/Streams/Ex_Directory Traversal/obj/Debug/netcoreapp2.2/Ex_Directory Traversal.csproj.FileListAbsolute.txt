@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\bin\Debug\netcoreapp2.2\Ex_Directory Traversal.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\bin\Debug\netcoreapp2.2\Ex_Directory Traversal.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\bin\Debug\netcoreapp2.2\Ex_Directory Traversal.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\bin\Debug\netcoreapp2.2\Ex_Directory Traversal.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\bin\Debug\netcoreapp2.2\Ex_Directory Traversal.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\obj\Debug\netcoreapp2.2\Ex_Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\obj\Debug\netcoreapp2.2\Ex_Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\obj\Debug\netcoreapp2.2\Ex_Directory Traversal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\obj\Debug\netcoreapp2.2\Ex_Directory Traversal.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Directory Traversal\obj\Debug\netcoreapp2.2\Ex_Directory Traversal.pdb

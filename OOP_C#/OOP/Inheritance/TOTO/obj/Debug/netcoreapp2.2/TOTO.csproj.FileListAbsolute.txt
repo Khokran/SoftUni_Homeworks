@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\bin\Debug\netcoreapp2.2\TOTO.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\bin\Debug\netcoreapp2.2\TOTO.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\bin\Debug\netcoreapp2.2\TOTO.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\bin\Debug\netcoreapp2.2\TOTO.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\bin\Debug\netcoreapp2.2\TOTO.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\obj\Debug\netcoreapp2.2\TOTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\obj\Debug\netcoreapp2.2\TOTO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\obj\Debug\netcoreapp2.2\TOTO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\obj\Debug\netcoreapp2.2\TOTO.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\TOTO\obj\Debug\netcoreapp2.2\TOTO.pdb

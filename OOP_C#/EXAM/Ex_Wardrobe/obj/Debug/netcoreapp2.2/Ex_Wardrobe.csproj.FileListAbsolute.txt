@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\bin\Debug\netcoreapp2.2\Ex_Wardrobe.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\bin\Debug\netcoreapp2.2\Ex_Wardrobe.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\bin\Debug\netcoreapp2.2\Ex_Wardrobe.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\bin\Debug\netcoreapp2.2\Ex_Wardrobe.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\bin\Debug\netcoreapp2.2\Ex_Wardrobe.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\obj\Debug\netcoreapp2.2\Ex_Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\obj\Debug\netcoreapp2.2\Ex_Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\obj\Debug\netcoreapp2.2\Ex_Wardrobe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\obj\Debug\netcoreapp2.2\Ex_Wardrobe.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Wardrobe\obj\Debug\netcoreapp2.2\Ex_Wardrobe.pdb

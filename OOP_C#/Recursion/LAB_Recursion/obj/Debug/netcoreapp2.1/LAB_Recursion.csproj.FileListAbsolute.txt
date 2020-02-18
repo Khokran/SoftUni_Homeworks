@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\bin\Debug\netcoreapp2.1\LAB_Recursion.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\bin\Debug\netcoreapp2.1\LAB_Recursion.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\bin\Debug\netcoreapp2.1\LAB_Recursion.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\bin\Debug\netcoreapp2.1\LAB_Recursion.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\bin\Debug\netcoreapp2.1\LAB_Recursion.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\obj\Debug\netcoreapp2.1\LAB_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\obj\Debug\netcoreapp2.1\LAB_Recursion.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\obj\Debug\netcoreapp2.1\LAB_Recursion.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\obj\Debug\netcoreapp2.1\LAB_Recursion.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_Recursion\obj\Debug\netcoreapp2.1\LAB_Recursion.pdb

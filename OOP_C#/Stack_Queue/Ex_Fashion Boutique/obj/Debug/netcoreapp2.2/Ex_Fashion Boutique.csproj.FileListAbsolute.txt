@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\bin\Debug\netcoreapp2.2\Ex_Fashion Boutique.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\bin\Debug\netcoreapp2.2\Ex_Fashion Boutique.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\bin\Debug\netcoreapp2.2\Ex_Fashion Boutique.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\bin\Debug\netcoreapp2.2\Ex_Fashion Boutique.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\bin\Debug\netcoreapp2.2\Ex_Fashion Boutique.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\obj\Debug\netcoreapp2.2\Ex_Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\obj\Debug\netcoreapp2.2\Ex_Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\obj\Debug\netcoreapp2.2\Ex_Fashion Boutique.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\obj\Debug\netcoreapp2.2\Ex_Fashion Boutique.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Fashion Boutique\obj\Debug\netcoreapp2.2\Ex_Fashion Boutique.pdb

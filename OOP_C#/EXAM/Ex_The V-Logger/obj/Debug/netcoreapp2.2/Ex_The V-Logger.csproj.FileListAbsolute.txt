@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\bin\Debug\netcoreapp2.2\Ex_The V-Logger.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\bin\Debug\netcoreapp2.2\Ex_The V-Logger.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\bin\Debug\netcoreapp2.2\Ex_The V-Logger.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\bin\Debug\netcoreapp2.2\Ex_The V-Logger.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\bin\Debug\netcoreapp2.2\Ex_The V-Logger.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\obj\Debug\netcoreapp2.2\Ex_The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\obj\Debug\netcoreapp2.2\Ex_The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\obj\Debug\netcoreapp2.2\Ex_The V-Logger.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\obj\Debug\netcoreapp2.2\Ex_The V-Logger.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_The V-Logger\obj\Debug\netcoreapp2.2\Ex_The V-Logger.pdb

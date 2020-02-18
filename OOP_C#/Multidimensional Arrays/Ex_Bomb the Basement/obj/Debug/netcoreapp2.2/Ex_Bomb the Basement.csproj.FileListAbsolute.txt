@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\bin\Debug\netcoreapp2.2\Ex_Bomb the Basement.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\bin\Debug\netcoreapp2.2\Ex_Bomb the Basement.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\bin\Debug\netcoreapp2.2\Ex_Bomb the Basement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\bin\Debug\netcoreapp2.2\Ex_Bomb the Basement.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\bin\Debug\netcoreapp2.2\Ex_Bomb the Basement.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\obj\Debug\netcoreapp2.2\Ex_Bomb the Basement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\obj\Debug\netcoreapp2.2\Ex_Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\obj\Debug\netcoreapp2.2\Ex_Bomb the Basement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\obj\Debug\netcoreapp2.2\Ex_Bomb the Basement.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Bomb the Basement\obj\Debug\netcoreapp2.2\Ex_Bomb the Basement.pdb

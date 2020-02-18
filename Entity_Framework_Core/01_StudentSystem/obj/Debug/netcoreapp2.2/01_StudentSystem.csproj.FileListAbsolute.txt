@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\bin\Debug\netcoreapp2.2\01_StudentSystem.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\bin\Debug\netcoreapp2.2\01_StudentSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\bin\Debug\netcoreapp2.2\01_StudentSystem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\bin\Debug\netcoreapp2.2\01_StudentSystem.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\bin\Debug\netcoreapp2.2\01_StudentSystem.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\obj\Debug\netcoreapp2.2\01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\obj\Debug\netcoreapp2.2\01_StudentSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\obj\Debug\netcoreapp2.2\01_StudentSystem.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\obj\Debug\netcoreapp2.2\01_StudentSystem.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\01_StudentSystem\obj\Debug\netcoreapp2.2\01_StudentSystem.csprojAssemblyReference.cache

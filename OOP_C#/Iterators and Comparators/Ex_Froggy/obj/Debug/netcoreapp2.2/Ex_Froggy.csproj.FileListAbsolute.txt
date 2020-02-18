@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\bin\Debug\netcoreapp2.2\Ex_Froggy.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\bin\Debug\netcoreapp2.2\Ex_Froggy.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\bin\Debug\netcoreapp2.2\Ex_Froggy.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\bin\Debug\netcoreapp2.2\Ex_Froggy.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\bin\Debug\netcoreapp2.2\Ex_Froggy.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\obj\Debug\netcoreapp2.2\Ex_Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\obj\Debug\netcoreapp2.2\Ex_Froggy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\obj\Debug\netcoreapp2.2\Ex_Froggy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\obj\Debug\netcoreapp2.2\Ex_Froggy.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Froggy\obj\Debug\netcoreapp2.2\Ex_Froggy.pdb

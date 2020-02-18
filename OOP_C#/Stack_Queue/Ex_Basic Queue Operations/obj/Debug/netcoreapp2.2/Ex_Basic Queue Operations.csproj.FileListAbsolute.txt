@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\bin\Debug\netcoreapp2.2\Ex_Basic Queue Operations.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\bin\Debug\netcoreapp2.2\Ex_Basic Queue Operations.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\bin\Debug\netcoreapp2.2\Ex_Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\bin\Debug\netcoreapp2.2\Ex_Basic Queue Operations.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\bin\Debug\netcoreapp2.2\Ex_Basic Queue Operations.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\obj\Debug\netcoreapp2.2\Ex_Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\obj\Debug\netcoreapp2.2\Ex_Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\obj\Debug\netcoreapp2.2\Ex_Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\obj\Debug\netcoreapp2.2\Ex_Basic Queue Operations.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Basic Queue Operations\obj\Debug\netcoreapp2.2\Ex_Basic Queue Operations.pdb

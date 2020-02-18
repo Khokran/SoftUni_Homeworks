@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\bin\Debug\netcoreapp2.2\Ex_12. TriFunction.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\bin\Debug\netcoreapp2.2\Ex_12. TriFunction.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\bin\Debug\netcoreapp2.2\Ex_12. TriFunction.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\bin\Debug\netcoreapp2.2\Ex_12. TriFunction.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\bin\Debug\netcoreapp2.2\Ex_12. TriFunction.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\obj\Debug\netcoreapp2.2\Ex_12. TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\obj\Debug\netcoreapp2.2\Ex_12. TriFunction.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\obj\Debug\netcoreapp2.2\Ex_12. TriFunction.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\obj\Debug\netcoreapp2.2\Ex_12. TriFunction.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_12. TriFunction\obj\Debug\netcoreapp2.2\Ex_12. TriFunction.pdb

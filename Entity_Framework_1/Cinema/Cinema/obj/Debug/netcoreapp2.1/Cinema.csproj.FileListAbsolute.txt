@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.AssemblyInfo.cs

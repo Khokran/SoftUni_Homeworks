@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\bin\Debug\netcoreapp2.1\03.MinionNames.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\bin\Debug\netcoreapp2.1\03.MinionNames.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\bin\Debug\netcoreapp2.1\03.MinionNames.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\bin\Debug\netcoreapp2.1\03.MinionNames.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\bin\Debug\netcoreapp2.1\03.MinionNames.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\obj\Debug\netcoreapp2.1\03.MinionNames.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\obj\Debug\netcoreapp2.1\03.MinionNames.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\obj\Debug\netcoreapp2.1\03.MinionNames.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\obj\Debug\netcoreapp2.1\03.MinionNames.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\03.MinionNames\obj\Debug\netcoreapp2.1\03.MinionNames.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\bin\Debug\netcoreapp2.2\Ex_Squares in Matrix.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\bin\Debug\netcoreapp2.2\Ex_Squares in Matrix.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\bin\Debug\netcoreapp2.2\Ex_Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\bin\Debug\netcoreapp2.2\Ex_Squares in Matrix.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\bin\Debug\netcoreapp2.2\Ex_Squares in Matrix.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\obj\Debug\netcoreapp2.2\Ex_Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\obj\Debug\netcoreapp2.2\Ex_Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\obj\Debug\netcoreapp2.2\Ex_Squares in Matrix.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\obj\Debug\netcoreapp2.2\Ex_Squares in Matrix.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Squares in Matrix\obj\Debug\netcoreapp2.2\Ex_Squares in Matrix.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.pdb

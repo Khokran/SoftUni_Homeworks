@@ -1,0 +1,11 @@
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.deps.json
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.runtimeconfig.json
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.runtimeconfig.dev.json
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.dll
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\bin\Debug\netcoreapp2.1\AquariumAdventure.pdb
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.csprojAssemblyReference.cache
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.csproj.CoreCompileInputs.cache
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.AssemblyInfoInputs.cache
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.AssemblyInfo.cs
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.dll
+C:\Users\SYank\Desktop\Exam - 13 August 2019\AquariumAdventure\obj\Debug\netcoreapp2.1\AquariumAdventure.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\bin\Debug\netcoreapp2.2\Ex_Crossroad.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\bin\Debug\netcoreapp2.2\Ex_Crossroad.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\bin\Debug\netcoreapp2.2\Ex_Crossroad.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\bin\Debug\netcoreapp2.2\Ex_Crossroad.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\bin\Debug\netcoreapp2.2\Ex_Crossroad.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\obj\Debug\netcoreapp2.2\Ex_Crossroad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\obj\Debug\netcoreapp2.2\Ex_Crossroad.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\obj\Debug\netcoreapp2.2\Ex_Crossroad.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\obj\Debug\netcoreapp2.2\Ex_Crossroad.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Crossroad\obj\Debug\netcoreapp2.2\Ex_Crossroad.pdb

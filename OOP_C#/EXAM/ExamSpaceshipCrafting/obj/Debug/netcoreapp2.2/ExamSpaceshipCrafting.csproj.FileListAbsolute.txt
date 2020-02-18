@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\bin\Debug\netcoreapp2.2\ExamSpaceshipCrafting.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\bin\Debug\netcoreapp2.2\ExamSpaceshipCrafting.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\bin\Debug\netcoreapp2.2\ExamSpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\bin\Debug\netcoreapp2.2\ExamSpaceshipCrafting.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\bin\Debug\netcoreapp2.2\ExamSpaceshipCrafting.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\obj\Debug\netcoreapp2.2\ExamSpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\obj\Debug\netcoreapp2.2\ExamSpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\obj\Debug\netcoreapp2.2\ExamSpaceshipCrafting.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\obj\Debug\netcoreapp2.2\ExamSpaceshipCrafting.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceshipCrafting\obj\Debug\netcoreapp2.2\ExamSpaceshipCrafting.pdb

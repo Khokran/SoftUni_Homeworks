@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\bin\Debug\netcoreapp2.2\copyMe.png
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\bin\Debug\netcoreapp2.2\Ex_Zip and Extract.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\bin\Debug\netcoreapp2.2\Ex_Zip and Extract.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\bin\Debug\netcoreapp2.2\Ex_Zip and Extract.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\bin\Debug\netcoreapp2.2\Ex_Zip and Extract.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\bin\Debug\netcoreapp2.2\Ex_Zip and Extract.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\obj\Debug\netcoreapp2.2\Ex_Zip and Extract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\obj\Debug\netcoreapp2.2\Ex_Zip and Extract.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\obj\Debug\netcoreapp2.2\Ex_Zip and Extract.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\obj\Debug\netcoreapp2.2\Ex_Zip and Extract.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Zip and Extract\obj\Debug\netcoreapp2.2\Ex_Zip and Extract.pdb

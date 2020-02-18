@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.pdb

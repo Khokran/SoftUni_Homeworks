@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\bin\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\bin\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\bin\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\bin\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\bin\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\obj\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\obj\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\obj\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\obj\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExamSpaceStationEstablishment\obj\Debug\netcoreapp2.2\ExamSpaceStationEstablishment.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\bin\Debug\netcoreapp2.2\Exercise_Computer.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\bin\Debug\netcoreapp2.2\Exercise_Computer.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\bin\Debug\netcoreapp2.2\Exercise_Computer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\bin\Debug\netcoreapp2.2\Exercise_Computer.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\bin\Debug\netcoreapp2.2\Exercise_Computer.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\obj\Debug\netcoreapp2.2\Exercise_Computer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\obj\Debug\netcoreapp2.2\Exercise_Computer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\obj\Debug\netcoreapp2.2\Exercise_Computer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\obj\Debug\netcoreapp2.2\Exercise_Computer.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Computer\obj\Debug\netcoreapp2.2\Exercise_Computer.pdb

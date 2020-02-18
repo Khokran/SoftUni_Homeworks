@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\STACKS_QUEUES.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\STACKS_QUEUES.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\STACKS_QUEUES.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\STACKS_QUEUES.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\STACKS_QUEUES.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\STACKS_QUEUES.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\STACKS_QUEUES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\STACKS_QUEUES.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\STACKS_QUEUES.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\STACKS_QUEUES.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\STACKS_QUEUES.pdb

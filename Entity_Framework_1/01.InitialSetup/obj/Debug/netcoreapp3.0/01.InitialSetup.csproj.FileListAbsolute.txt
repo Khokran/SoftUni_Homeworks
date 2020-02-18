@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\bin\Debug\netcoreapp3.0\01.InitialSetup.exe
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp3.0\01.InitialSetup.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp3.0\01.InitialSetup.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\01.InitialSetup\obj\Debug\netcoreapp3.0\01.InitialSetup.AssemblyInfo.cs

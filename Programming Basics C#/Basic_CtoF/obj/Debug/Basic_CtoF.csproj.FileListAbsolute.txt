@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\bin\Debug\Basic_CtoF.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\bin\Debug\Basic_CtoF.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\bin\Debug\Basic_CtoF.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\obj\Debug\Basic_CtoF.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\obj\Debug\Basic_CtoF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\obj\Debug\Basic_CtoF.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_CtoF\obj\Debug\Basic_CtoF.pdb

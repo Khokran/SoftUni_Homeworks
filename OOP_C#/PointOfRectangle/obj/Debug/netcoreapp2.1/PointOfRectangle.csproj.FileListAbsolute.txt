@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\bin\Debug\netcoreapp2.1\PointOfRectangle.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\bin\Debug\netcoreapp2.1\PointOfRectangle.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\bin\Debug\netcoreapp2.1\PointOfRectangle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\bin\Debug\netcoreapp2.1\PointOfRectangle.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\bin\Debug\netcoreapp2.1\PointOfRectangle.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\obj\Debug\netcoreapp2.1\PointOfRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\obj\Debug\netcoreapp2.1\PointOfRectangle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\obj\Debug\netcoreapp2.1\PointOfRectangle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\obj\Debug\netcoreapp2.1\PointOfRectangle.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\PointOfRectangle\obj\Debug\netcoreapp2.1\PointOfRectangle.pdb

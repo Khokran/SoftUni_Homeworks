@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\bin\Debug\netcoreapp2.1\Ex_Oldest Family Member.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\bin\Debug\netcoreapp2.1\Ex_Oldest Family Member.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\bin\Debug\netcoreapp2.1\Ex_Oldest Family Member.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\bin\Debug\netcoreapp2.1\Ex_Oldest Family Member.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\bin\Debug\netcoreapp2.1\Ex_Oldest Family Member.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\obj\Debug\netcoreapp2.1\Ex_Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\obj\Debug\netcoreapp2.1\Ex_Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\obj\Debug\netcoreapp2.1\Ex_Oldest Family Member.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\obj\Debug\netcoreapp2.1\Ex_Oldest Family Member.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Oldest Family Member\obj\Debug\netcoreapp2.1\Ex_Oldest Family Member.pdb

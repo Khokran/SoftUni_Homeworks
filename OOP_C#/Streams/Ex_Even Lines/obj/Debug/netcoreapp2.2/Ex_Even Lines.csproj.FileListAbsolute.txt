@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\bin\Debug\netcoreapp2.2\text.txt
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\bin\Debug\netcoreapp2.2\Ex_Even Lines.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\bin\Debug\netcoreapp2.2\Ex_Even Lines.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\bin\Debug\netcoreapp2.2\Ex_Even Lines.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\bin\Debug\netcoreapp2.2\Ex_Even Lines.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\bin\Debug\netcoreapp2.2\Ex_Even Lines.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\obj\Debug\netcoreapp2.2\Ex_Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\obj\Debug\netcoreapp2.2\Ex_Even Lines.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\obj\Debug\netcoreapp2.2\Ex_Even Lines.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\obj\Debug\netcoreapp2.2\Ex_Even Lines.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Even Lines\obj\Debug\netcoreapp2.2\Ex_Even Lines.pdb

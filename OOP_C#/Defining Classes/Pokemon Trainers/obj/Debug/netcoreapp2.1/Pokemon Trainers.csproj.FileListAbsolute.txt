@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\bin\Debug\netcoreapp2.1\Pokemon Trainers.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\bin\Debug\netcoreapp2.1\Pokemon Trainers.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\bin\Debug\netcoreapp2.1\Pokemon Trainers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\bin\Debug\netcoreapp2.1\Pokemon Trainers.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\bin\Debug\netcoreapp2.1\Pokemon Trainers.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\obj\Debug\netcoreapp2.1\Pokemon Trainers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\obj\Debug\netcoreapp2.1\Pokemon Trainers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\obj\Debug\netcoreapp2.1\Pokemon Trainers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\obj\Debug\netcoreapp2.1\Pokemon Trainers.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Pokemon Trainers\obj\Debug\netcoreapp2.1\Pokemon Trainers.pdb

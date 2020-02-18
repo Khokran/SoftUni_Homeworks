@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\bin\Debug\netcoreapp2.2\Softuni Party.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\bin\Debug\netcoreapp2.2\Softuni Party.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\bin\Debug\netcoreapp2.2\Softuni Party.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\bin\Debug\netcoreapp2.2\Softuni Party.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\bin\Debug\netcoreapp2.2\Softuni Party.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\obj\Debug\netcoreapp2.2\Softuni Party.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\obj\Debug\netcoreapp2.2\Softuni Party.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\obj\Debug\netcoreapp2.2\Softuni Party.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\obj\Debug\netcoreapp2.2\Softuni Party.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Softuni Party\obj\Debug\netcoreapp2.2\Softuni Party.pdb

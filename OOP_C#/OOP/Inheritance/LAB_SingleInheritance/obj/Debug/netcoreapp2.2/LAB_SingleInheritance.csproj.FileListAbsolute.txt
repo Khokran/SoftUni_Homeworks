@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\bin\Debug\netcoreapp2.2\LAB_SingleInheritance.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\bin\Debug\netcoreapp2.2\LAB_SingleInheritance.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\bin\Debug\netcoreapp2.2\LAB_SingleInheritance.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\bin\Debug\netcoreapp2.2\LAB_SingleInheritance.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\bin\Debug\netcoreapp2.2\LAB_SingleInheritance.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\obj\Debug\netcoreapp2.2\LAB_SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\obj\Debug\netcoreapp2.2\LAB_SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\obj\Debug\netcoreapp2.2\LAB_SingleInheritance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\obj\Debug\netcoreapp2.2\LAB_SingleInheritance.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SingleInheritance\obj\Debug\netcoreapp2.2\LAB_SingleInheritance.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\bin\Debug\netcoreapp2.1\3_FootballBetting.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\bin\Debug\netcoreapp2.1\3_FootballBetting.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\bin\Debug\netcoreapp2.1\3_FootballBetting.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\bin\Debug\netcoreapp2.1\3_FootballBetting.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\bin\Debug\netcoreapp2.1\3_FootballBetting.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\obj\Debug\netcoreapp2.1\3_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\obj\Debug\netcoreapp2.1\3_FootballBetting.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\obj\Debug\netcoreapp2.1\3_FootballBetting.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\obj\Debug\netcoreapp2.1\3_FootballBetting.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\3_FootballBetting\obj\Debug\netcoreapp2.1\3_FootballBetting.csprojAssemblyReference.cache

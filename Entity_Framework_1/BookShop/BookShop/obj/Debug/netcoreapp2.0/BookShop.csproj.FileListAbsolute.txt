@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CopyComplete
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\BookShop\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\bin\Debug\netcoreapp2.2\Ex_Ranking.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\bin\Debug\netcoreapp2.2\Ex_Ranking.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\bin\Debug\netcoreapp2.2\Ex_Ranking.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\bin\Debug\netcoreapp2.2\Ex_Ranking.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\bin\Debug\netcoreapp2.2\Ex_Ranking.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\obj\Debug\netcoreapp2.2\Ex_Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\obj\Debug\netcoreapp2.2\Ex_Ranking.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\obj\Debug\netcoreapp2.2\Ex_Ranking.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\obj\Debug\netcoreapp2.2\Ex_Ranking.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Ranking\obj\Debug\netcoreapp2.2\Ex_Ranking.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\bin\Debug\Loop_Matrix.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\bin\Debug\Loop_Matrix.exe
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\bin\Debug\Loop_Matrix.pdb
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\obj\Debug\Loop_Matrix.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\obj\Debug\Loop_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\obj\Debug\Loop_Matrix.exe
+C:\Users\Admin\source\repos\Basic_Level\Loop_Matrix\obj\Debug\Loop_Matrix.pdb

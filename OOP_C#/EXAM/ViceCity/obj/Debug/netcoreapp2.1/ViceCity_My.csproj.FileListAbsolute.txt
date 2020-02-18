@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ViceCity\obj\Debug\netcoreapp2.1\ViceCity_My.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ViceCity\obj\Debug\netcoreapp2.1\ViceCity_My.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ViceCity\obj\Debug\netcoreapp2.1\ViceCity_My.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ViceCity\obj\Debug\netcoreapp2.1\ViceCity_My.csprojAssemblyReference.cache

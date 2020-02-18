@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.dll.config
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.dll.config
+C:\Users\Admin\source\repos\Entity_Framework_Core\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.csprojAssemblyReference.cache

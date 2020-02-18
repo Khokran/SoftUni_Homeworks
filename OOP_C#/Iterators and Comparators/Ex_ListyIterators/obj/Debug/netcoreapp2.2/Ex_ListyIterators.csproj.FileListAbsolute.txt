@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\bin\Debug\netcoreapp2.2\Ex_ListyIterators.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\bin\Debug\netcoreapp2.2\Ex_ListyIterators.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\bin\Debug\netcoreapp2.2\Ex_ListyIterators.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\bin\Debug\netcoreapp2.2\Ex_ListyIterators.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\bin\Debug\netcoreapp2.2\Ex_ListyIterators.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\obj\Debug\netcoreapp2.2\Ex_ListyIterators.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\obj\Debug\netcoreapp2.2\Ex_ListyIterators.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\obj\Debug\netcoreapp2.2\Ex_ListyIterators.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\obj\Debug\netcoreapp2.2\Ex_ListyIterators.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_ListyIterators\obj\Debug\netcoreapp2.2\Ex_ListyIterators.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\bin\Debug\Exercise_Time Span.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\bin\Debug\Exercise_Time Span.exe
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\bin\Debug\Exercise_Time Span.pdb
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\obj\Debug\Exercise_Time Span.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\obj\Debug\Exercise_Time Span.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\obj\Debug\Exercise_Time Span.exe
+C:\Users\Admin\source\repos\Basic_Level\Exercise_Time Span\obj\Debug\Exercise_Time Span.pdb

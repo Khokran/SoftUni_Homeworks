@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_Expresion\bin\Debug\Basic_Expresion.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_Expresion\bin\Debug\Basic_Expresion.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_Expresion\bin\Debug\Basic_Expresion.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_Expresion\obj\Debug\Basic_Expresion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_Expresion\obj\Debug\Basic_Expresion.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_Expresion\obj\Debug\Basic_Expresion.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_\bin\Debug\Basic_.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_\bin\Debug\Basic_.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_\bin\Debug\Basic_.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_\obj\Debug\Basic_Conkatenate.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_\obj\Debug\Basic_Conkatenate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_\obj\Debug\Basic_.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_\obj\Debug\Basic_.pdb

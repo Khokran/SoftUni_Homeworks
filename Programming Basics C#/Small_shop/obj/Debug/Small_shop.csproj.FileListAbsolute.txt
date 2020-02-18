@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\bin\Debug\Small_shop.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\bin\Debug\Small_shop.exe
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\bin\Debug\Small_shop.pdb
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\obj\Debug\Small_shop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\obj\Debug\Small_shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\obj\Debug\Small_shop.exe
+C:\Users\Admin\source\repos\Basic_Level\Small_shop\obj\Debug\Small_shop.pdb

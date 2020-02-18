@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\bin\Debug\netcoreapp2.2\File Parts.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\bin\Debug\netcoreapp2.2\File Parts.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\bin\Debug\netcoreapp2.2\File Parts.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\bin\Debug\netcoreapp2.2\File Parts.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\bin\Debug\netcoreapp2.2\File Parts.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\obj\Debug\netcoreapp2.2\File Parts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\obj\Debug\netcoreapp2.2\File Parts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\obj\Debug\netcoreapp2.2\File Parts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\obj\Debug\netcoreapp2.2\File Parts.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\File Parts\obj\Debug\netcoreapp2.2\File Parts.pdb

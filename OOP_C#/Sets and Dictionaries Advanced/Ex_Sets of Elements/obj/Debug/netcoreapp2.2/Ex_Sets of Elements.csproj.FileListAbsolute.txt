@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\bin\Debug\netcoreapp2.2\Ex_Sets of Elements.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\bin\Debug\netcoreapp2.2\Ex_Sets of Elements.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\bin\Debug\netcoreapp2.2\Ex_Sets of Elements.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\bin\Debug\netcoreapp2.2\Ex_Sets of Elements.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\bin\Debug\netcoreapp2.2\Ex_Sets of Elements.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\obj\Debug\netcoreapp2.2\Ex_Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\obj\Debug\netcoreapp2.2\Ex_Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\obj\Debug\netcoreapp2.2\Ex_Sets of Elements.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\obj\Debug\netcoreapp2.2\Ex_Sets of Elements.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Sets of Elements\obj\Debug\netcoreapp2.2\Ex_Sets of Elements.pdb

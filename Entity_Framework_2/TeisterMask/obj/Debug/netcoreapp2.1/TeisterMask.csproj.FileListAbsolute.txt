@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb

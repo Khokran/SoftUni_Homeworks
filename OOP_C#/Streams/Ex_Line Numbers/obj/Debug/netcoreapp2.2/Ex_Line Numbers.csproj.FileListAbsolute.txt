@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\bin\Debug\netcoreapp2.2\text.txt
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\bin\Debug\netcoreapp2.2\Ex_Line Numbers.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\bin\Debug\netcoreapp2.2\Ex_Line Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\bin\Debug\netcoreapp2.2\Ex_Line Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\bin\Debug\netcoreapp2.2\Ex_Line Numbers.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\bin\Debug\netcoreapp2.2\Ex_Line Numbers.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\obj\Debug\netcoreapp2.2\Ex_Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\obj\Debug\netcoreapp2.2\Ex_Line Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\obj\Debug\netcoreapp2.2\Ex_Line Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\obj\Debug\netcoreapp2.2\Ex_Line Numbers.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Line Numbers\obj\Debug\netcoreapp2.2\Ex_Line Numbers.pdb

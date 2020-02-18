@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\bin\Debug\netcoreapp2.2\Ex_7. Predicate For Names.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\bin\Debug\netcoreapp2.2\Ex_7. Predicate For Names.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\bin\Debug\netcoreapp2.2\Ex_7. Predicate For Names.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\bin\Debug\netcoreapp2.2\Ex_7. Predicate For Names.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\bin\Debug\netcoreapp2.2\Ex_7. Predicate For Names.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\obj\Debug\netcoreapp2.2\Ex_7. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\obj\Debug\netcoreapp2.2\Ex_7. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\obj\Debug\netcoreapp2.2\Ex_7. Predicate For Names.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\obj\Debug\netcoreapp2.2\Ex_7. Predicate For Names.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_7. Predicate For Names\obj\Debug\netcoreapp2.2\Ex_7. Predicate For Names.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\bin\Debug\netcoreapp2.1\Exam_TronRacers.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\bin\Debug\netcoreapp2.1\Exam_TronRacers.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\bin\Debug\netcoreapp2.1\Exam_TronRacers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\bin\Debug\netcoreapp2.1\Exam_TronRacers.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\bin\Debug\netcoreapp2.1\Exam_TronRacers.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\obj\Debug\netcoreapp2.1\Exam_TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\obj\Debug\netcoreapp2.1\Exam_TronRacers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\obj\Debug\netcoreapp2.1\Exam_TronRacers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\obj\Debug\netcoreapp2.1\Exam_TronRacers.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TronRacers\obj\Debug\netcoreapp2.1\Exam_TronRacers.pdb

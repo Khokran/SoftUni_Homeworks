@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\bin\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\bin\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\bin\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\bin\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\bin\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\obj\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\obj\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\obj\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\obj\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\obj\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Balanced Parenthesis\obj\Debug\netcoreapp2.2\Ex_Balanced Parenthesis.csprojAssemblyReference.cache

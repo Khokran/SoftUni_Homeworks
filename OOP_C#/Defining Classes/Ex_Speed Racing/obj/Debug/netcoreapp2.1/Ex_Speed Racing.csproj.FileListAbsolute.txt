@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\bin\Debug\netcoreapp2.1\Ex_Speed Racing.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\bin\Debug\netcoreapp2.1\Ex_Speed Racing.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\bin\Debug\netcoreapp2.1\Ex_Speed Racing.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\bin\Debug\netcoreapp2.1\Ex_Speed Racing.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\bin\Debug\netcoreapp2.1\Ex_Speed Racing.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\obj\Debug\netcoreapp2.1\Ex_Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\obj\Debug\netcoreapp2.1\Ex_Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\obj\Debug\netcoreapp2.1\Ex_Speed Racing.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\obj\Debug\netcoreapp2.1\Ex_Speed Racing.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Speed Racing\obj\Debug\netcoreapp2.1\Ex_Speed Racing.pdb

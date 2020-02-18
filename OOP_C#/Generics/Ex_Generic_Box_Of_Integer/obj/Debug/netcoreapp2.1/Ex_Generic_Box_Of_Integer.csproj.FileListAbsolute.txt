@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\bin\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\bin\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\bin\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\bin\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\bin\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\obj\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\obj\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\obj\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\obj\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Generic_Box_Of_Integer\obj\Debug\netcoreapp2.1\Ex_Generic_Box_Of_Integer.pdb

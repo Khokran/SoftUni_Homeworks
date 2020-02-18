@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\bin\Debug\netcoreapp2.2\Ex_Periodic Table.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\bin\Debug\netcoreapp2.2\Ex_Periodic Table.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\bin\Debug\netcoreapp2.2\Ex_Periodic Table.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\bin\Debug\netcoreapp2.2\Ex_Periodic Table.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\bin\Debug\netcoreapp2.2\Ex_Periodic Table.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\obj\Debug\netcoreapp2.2\Ex_Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\obj\Debug\netcoreapp2.2\Ex_Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\obj\Debug\netcoreapp2.2\Ex_Periodic Table.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\obj\Debug\netcoreapp2.2\Ex_Periodic Table.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Periodic Table\obj\Debug\netcoreapp2.2\Ex_Periodic Table.pdb

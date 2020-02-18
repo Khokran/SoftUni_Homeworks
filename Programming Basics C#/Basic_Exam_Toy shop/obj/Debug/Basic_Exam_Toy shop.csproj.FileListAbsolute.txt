@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\bin\Debug\Basic_Exam_Toy shop.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\bin\Debug\Basic_Exam_Toy shop.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\bin\Debug\Basic_Exam_Toy shop.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\obj\Debug\Basic_Exam_Toy shop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\obj\Debug\Basic_Exam_Toy shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\obj\Debug\Basic_Exam_Toy shop.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_Exam_Toy shop\obj\Debug\Basic_Exam_Toy shop.pdb

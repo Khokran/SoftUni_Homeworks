@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Basic_Level\Basic_Num1_20\obj\Debug\Basic_Num1_20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\Basic_Num1_20\bin\Debug\Basic_Num1_20.exe.config
+C:\Users\Admin\source\repos\Basic_Level\Basic_Num1_20\bin\Debug\Basic_Num1_20.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_Num1_20\bin\Debug\Basic_Num1_20.pdb
+C:\Users\Admin\source\repos\Basic_Level\Basic_Num1_20\obj\Debug\Basic_Num1_20.exe
+C:\Users\Admin\source\repos\Basic_Level\Basic_Num1_20\obj\Debug\Basic_Num1_20.pdb

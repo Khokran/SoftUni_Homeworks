@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\bin\Debug\While_Water dispenser.exe.config
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\bin\Debug\While_Water dispenser.exe
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\bin\Debug\While_Water dispenser.pdb
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\obj\Debug\While_Water dispenser.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\obj\Debug\While_Water dispenser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\obj\Debug\While_Water dispenser.exe
+C:\Users\Admin\source\repos\Basic_Level\While_Water dispenser\obj\Debug\While_Water dispenser.pdb

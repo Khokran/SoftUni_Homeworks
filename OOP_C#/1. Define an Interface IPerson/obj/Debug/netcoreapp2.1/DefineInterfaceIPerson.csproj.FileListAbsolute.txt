@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\1. Define an Interface IPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.pdb

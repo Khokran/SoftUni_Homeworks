@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\bin\Debug\netcoreapp2.2\Ex_Maximum Sum.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\bin\Debug\netcoreapp2.2\Ex_Maximum Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\bin\Debug\netcoreapp2.2\Ex_Maximum Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\bin\Debug\netcoreapp2.2\Ex_Maximum Sum.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\bin\Debug\netcoreapp2.2\Ex_Maximum Sum.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\obj\Debug\netcoreapp2.2\Ex_Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\obj\Debug\netcoreapp2.2\Ex_Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\obj\Debug\netcoreapp2.2\Ex_Maximum Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\obj\Debug\netcoreapp2.2\Ex_Maximum Sum.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Maximum Sum\obj\Debug\netcoreapp2.2\Ex_Maximum Sum.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\bin\Debug\While_Account Balance.exe.config
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\bin\Debug\While_Account Balance.exe
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\bin\Debug\While_Account Balance.pdb
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\obj\Debug\While_Account Balance.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\obj\Debug\While_Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\obj\Debug\While_Account Balance.exe
+C:\Users\Admin\source\repos\Basic_Level\While_Account Balance\obj\Debug\While_Account Balance.pdb

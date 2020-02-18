@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\bin\Debug\netcoreapp2.1\AquariumAdventure2.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\bin\Debug\netcoreapp2.1\AquariumAdventure2.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\bin\Debug\netcoreapp2.1\AquariumAdventure2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\bin\Debug\netcoreapp2.1\AquariumAdventure2.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\bin\Debug\netcoreapp2.1\AquariumAdventure2.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\obj\Debug\netcoreapp2.1\AquariumAdventure2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\obj\Debug\netcoreapp2.1\AquariumAdventure2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\obj\Debug\netcoreapp2.1\AquariumAdventure2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\obj\Debug\netcoreapp2.1\AquariumAdventure2.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\AquariumAdventure2\obj\Debug\netcoreapp2.1\AquariumAdventure2.pdb

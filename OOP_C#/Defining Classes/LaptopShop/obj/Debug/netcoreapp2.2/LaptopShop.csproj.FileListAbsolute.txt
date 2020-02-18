@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.pdb

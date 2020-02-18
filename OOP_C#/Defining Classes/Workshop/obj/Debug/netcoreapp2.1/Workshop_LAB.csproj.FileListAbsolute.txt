@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Workshop\obj\Debug\netcoreapp2.1\Workshop_LAB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Workshop\obj\Debug\netcoreapp2.1\Workshop_LAB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Workshop\obj\Debug\netcoreapp2.1\Workshop_LAB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Workshop\obj\Debug\netcoreapp2.1\Workshop_LAB.csprojAssemblyReference.cache

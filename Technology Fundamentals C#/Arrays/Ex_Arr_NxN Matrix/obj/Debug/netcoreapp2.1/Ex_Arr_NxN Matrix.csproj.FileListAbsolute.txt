@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\bin\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.deps.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\bin\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.runtimeconfig.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\bin\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\bin\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\bin\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.pdb
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\obj\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\obj\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\obj\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\obj\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\obj\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_Arr_NxN Matrix\obj\Debug\netcoreapp2.1\Ex_Arr_NxN Matrix.pdb

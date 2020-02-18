@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.2\Ex_EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.2\Ex_EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Equality Logic\obj\Debug\netcoreapp2.2\Ex_EqualityLogic.AssemblyInfo.cs

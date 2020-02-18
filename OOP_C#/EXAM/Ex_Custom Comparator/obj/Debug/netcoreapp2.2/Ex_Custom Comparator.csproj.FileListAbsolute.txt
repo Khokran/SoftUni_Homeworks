@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\bin\Debug\netcoreapp2.2\Ex_Custom Comparator.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\bin\Debug\netcoreapp2.2\Ex_Custom Comparator.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\bin\Debug\netcoreapp2.2\Ex_Custom Comparator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\bin\Debug\netcoreapp2.2\Ex_Custom Comparator.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\bin\Debug\netcoreapp2.2\Ex_Custom Comparator.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\obj\Debug\netcoreapp2.2\Ex_Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\obj\Debug\netcoreapp2.2\Ex_Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\obj\Debug\netcoreapp2.2\Ex_Custom Comparator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\obj\Debug\netcoreapp2.2\Ex_Custom Comparator.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Custom Comparator\obj\Debug\netcoreapp2.2\Ex_Custom Comparator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\Reverse Strings.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\Reverse Strings.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\Reverse Strings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\Reverse Strings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\bin\Debug\netcoreapp2.2\Reverse Strings.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\Reverse Strings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\Reverse Strings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\STACKS_QUEUES\obj\Debug\netcoreapp2.2\Reverse Strings.pdb

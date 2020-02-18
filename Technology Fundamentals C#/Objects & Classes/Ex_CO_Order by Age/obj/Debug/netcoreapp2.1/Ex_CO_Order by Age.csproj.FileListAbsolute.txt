@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\bin\Debug\netcoreapp2.1\Ex_CO_Order by Age.deps.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\bin\Debug\netcoreapp2.1\Ex_CO_Order by Age.runtimeconfig.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\bin\Debug\netcoreapp2.1\Ex_CO_Order by Age.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\bin\Debug\netcoreapp2.1\Ex_CO_Order by Age.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\bin\Debug\netcoreapp2.1\Ex_CO_Order by Age.pdb
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\obj\Debug\netcoreapp2.1\Ex_CO_Order by Age.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\obj\Debug\netcoreapp2.1\Ex_CO_Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\obj\Debug\netcoreapp2.1\Ex_CO_Order by Age.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\obj\Debug\netcoreapp2.1\Ex_CO_Order by Age.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\obj\Debug\netcoreapp2.1\Ex_CO_Order by Age.dll
+C:\Users\Admin\source\repos\Tech Module 4.0\Ex_CO_Order by Age\obj\Debug\netcoreapp2.1\Ex_CO_Order by Age.pdb

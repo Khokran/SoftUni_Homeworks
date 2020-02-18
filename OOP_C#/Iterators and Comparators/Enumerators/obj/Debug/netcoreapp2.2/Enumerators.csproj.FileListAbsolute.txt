@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\bin\Debug\netcoreapp2.2\Ex_Knight Game.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\bin\Debug\netcoreapp2.2\Ex_Knight Game.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\bin\Debug\netcoreapp2.2\Ex_Knight Game.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\bin\Debug\netcoreapp2.2\Ex_Knight Game.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\bin\Debug\netcoreapp2.2\Ex_Knight Game.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\obj\Debug\netcoreapp2.2\Ex_Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\obj\Debug\netcoreapp2.2\Ex_Knight Game.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\obj\Debug\netcoreapp2.2\Ex_Knight Game.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\obj\Debug\netcoreapp2.2\Ex_Knight Game.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Knight Game\obj\Debug\netcoreapp2.2\Ex_Knight Game.pdb

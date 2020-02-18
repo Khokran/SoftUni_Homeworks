@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\bin\Debug\netcoreapp2.1\ExGenericCountMethodStrings.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\bin\Debug\netcoreapp2.1\ExGenericCountMethodStrings.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\bin\Debug\netcoreapp2.1\ExGenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\bin\Debug\netcoreapp2.1\ExGenericCountMethodStrings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\bin\Debug\netcoreapp2.1\ExGenericCountMethodStrings.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\obj\Debug\netcoreapp2.1\ExGenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\obj\Debug\netcoreapp2.1\ExGenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\obj\Debug\netcoreapp2.1\ExGenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\obj\Debug\netcoreapp2.1\ExGenericCountMethodStrings.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\ExGenericCountMethodStrings\obj\Debug\netcoreapp2.1\ExGenericCountMethodStrings.pdb

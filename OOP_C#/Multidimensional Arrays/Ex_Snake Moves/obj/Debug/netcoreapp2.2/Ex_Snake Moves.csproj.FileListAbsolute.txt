@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\bin\Debug\netcoreapp2.2\Ex_Snake Moves.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\bin\Debug\netcoreapp2.2\Ex_Snake Moves.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\bin\Debug\netcoreapp2.2\Ex_Snake Moves.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\bin\Debug\netcoreapp2.2\Ex_Snake Moves.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\bin\Debug\netcoreapp2.2\Ex_Snake Moves.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\obj\Debug\netcoreapp2.2\Ex_Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\obj\Debug\netcoreapp2.2\Ex_Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\obj\Debug\netcoreapp2.2\Ex_Snake Moves.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\obj\Debug\netcoreapp2.2\Ex_Snake Moves.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Snake Moves\obj\Debug\netcoreapp2.2\Ex_Snake Moves.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\bin\Debug\netcoreapp2.1\Ex_ComparingObjects.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\bin\Debug\netcoreapp2.1\Ex_ComparingObjects.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\bin\Debug\netcoreapp2.1\Ex_ComparingObjects.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\bin\Debug\netcoreapp2.1\Ex_ComparingObjects.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\bin\Debug\netcoreapp2.1\Ex_ComparingObjects.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\obj\Debug\netcoreapp2.1\Ex_ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\obj\Debug\netcoreapp2.1\Ex_ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\obj\Debug\netcoreapp2.1\Ex_ComparingObjects.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\obj\Debug\netcoreapp2.1\Ex_ComparingObjects.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Comparing Objects\obj\Debug\netcoreapp2.1\Ex_ComparingObjects.pdb

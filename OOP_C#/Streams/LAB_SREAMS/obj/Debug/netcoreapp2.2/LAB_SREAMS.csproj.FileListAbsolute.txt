@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\bin\Debug\netcoreapp2.2\LAB_SREAMS.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\bin\Debug\netcoreapp2.2\LAB_SREAMS.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\bin\Debug\netcoreapp2.2\LAB_SREAMS.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\bin\Debug\netcoreapp2.2\LAB_SREAMS.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\bin\Debug\netcoreapp2.2\LAB_SREAMS.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\obj\Debug\netcoreapp2.2\LAB_SREAMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\obj\Debug\netcoreapp2.2\LAB_SREAMS.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\obj\Debug\netcoreapp2.2\LAB_SREAMS.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\obj\Debug\netcoreapp2.2\LAB_SREAMS.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\obj\Debug\netcoreapp2.2\LAB_SREAMS.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\LAB_SREAMS\obj\Debug\netcoreapp2.2\LAB_SREAMS.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\bin\Debug\netcoreapp2.1\Exam_TrojanInvasion.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\bin\Debug\netcoreapp2.1\Exam_TrojanInvasion.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\bin\Debug\netcoreapp2.1\Exam_TrojanInvasion.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\bin\Debug\netcoreapp2.1\Exam_TrojanInvasion.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\bin\Debug\netcoreapp2.1\Exam_TrojanInvasion.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\obj\Debug\netcoreapp2.1\Exam_TrojanInvasion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\obj\Debug\netcoreapp2.1\Exam_TrojanInvasion.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\obj\Debug\netcoreapp2.1\Exam_TrojanInvasion.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\obj\Debug\netcoreapp2.1\Exam_TrojanInvasion.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Exam_TrojanInvasion\obj\Debug\netcoreapp2.1\Exam_TrojanInvasion.pdb

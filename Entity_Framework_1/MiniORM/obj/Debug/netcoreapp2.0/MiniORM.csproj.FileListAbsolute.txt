@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.runtimeconfig.json
+C:\Users\Admin\source\repos\Entity_Framework_Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.runtimeconfig.dev.json

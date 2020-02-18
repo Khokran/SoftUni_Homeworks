@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\bin\Debug\netcoreapp2.2\Ex_Key Revolver.deps.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\bin\Debug\netcoreapp2.2\Ex_Key Revolver.runtimeconfig.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\bin\Debug\netcoreapp2.2\Ex_Key Revolver.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\bin\Debug\netcoreapp2.2\Ex_Key Revolver.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\bin\Debug\netcoreapp2.2\Ex_Key Revolver.pdb
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\obj\Debug\netcoreapp2.2\Ex_Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\obj\Debug\netcoreapp2.2\Ex_Key Revolver.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\obj\Debug\netcoreapp2.2\Ex_Key Revolver.AssemblyInfo.cs
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\obj\Debug\netcoreapp2.2\Ex_Key Revolver.dll
+C:\Users\Admin\source\repos\STACKS_QUEUES\Ex_Key Revolver\obj\Debug\netcoreapp2.2\Ex_Key Revolver.pdb
